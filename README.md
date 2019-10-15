@@ -11,7 +11,7 @@
   (Questions to be created and placed here)
   
 ## Data Source
-  I have collected the data for this analysis from the public results that have been posted on the Millennium Running website. This organization is the most popular when it comes to setting up and running road races in the state and they host tons of races each year to provide a strong sample size to analyze. I have taken out the Name information to help keep the data anonymous. The results page can be found at the following link: http://www.millenniumrunning.com/2019-results.
+  I have collected the data for this analysis from the public results that have been posted on the Millennium Running website. This organization is the most popular when it comes to setting up and running road races in the state and they host tons of races each year to provide a strong sample size to analyze. The results page can be found at the following link: http://www.millenniumrunning.com/2019-results.
 
 ## Author
   My name is Ryan Marshall and I am a data analyst hobbyist who is learning on breaking into the data science world. This is my first project to begin building a portfolio and hone my analytical abilities.
