@@ -17,4 +17,4 @@
   My name is Ryan Marshall and I am a data analyst hobbyist who is learning on breaking into the data science world. This is my first project to begin building a portfolio and hone my analytical abilities.
   
 ## In Closing
-  By the end of this project I hope to have have gained a deepered understanding of how to use python to conduct a detailed analysis of a dataset and present the findings in a successful manner.
+  By the end of this project I hope to have have gained a deeper understanding of how to use python to conduct a detailed analysis of a dataset and present the findings in a successful manner.
