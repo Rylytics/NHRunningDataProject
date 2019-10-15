@@ -25,7 +25,6 @@ for races in soup.find_all('h4',class_='rt-article-title'):
         race_list_links.append(a.get('href'))
         time.sleep(2) 
 
-'''
 #########
 #
 # Navigate to each race url and find the printable results link
@@ -54,4 +53,3 @@ for race in range(race_length):
 # Navigates to the printable results link and extracts the table
 #
 ########
-'''
