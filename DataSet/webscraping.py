@@ -32,13 +32,13 @@ for races in soup.find_all('h4',class_='rt-article-title'):
 ########
 race_length = len(race_list_links)
 
+race_result_links = []
+
 for race in range(race_length):
     current_url = race_list_links[race]
     print(current_url)
     new_response = requests.get(current_url)
     new_soup = BeautifulSoup(new_response.text, "lxml")
-
-    race_result_links = []
 
     for link in new_soup.find_all('a'):
         current_link = link.get('href')
